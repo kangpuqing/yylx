@@ -499,6 +499,7 @@ figure.effect-bubba:hover p {
 .partner-logo img {
     height: 100%;
     width: auto !important;
+    margin: auto;
 }
 
 /*--------------------
